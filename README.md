@@ -3,6 +3,8 @@ PredNet is a deep recurrent convolutional neural network developed by Lotter et 
 
 <p align="center">
   <img width="750" height="500" src="https://github.com/RoshanRane/Predictive-video-classification/blob/master/PredNet_Vanilla.jpg"></img>
+</p>
+<p align="center">
   As shown in Rane, Roshan Prakash et al.
 </p>
 
