@@ -36,7 +36,7 @@ This code was made possible by building upon the contributions by Lotter et al. 
   
 
 # Paper and bibtex Reference
-[The Performance of PredNet Using Predictive Coding in the Visual Cortex: An Empirical Analysis](https://ieeexplore-ieee-org.ezproxyprod.ucs.louisiana.edu/stamp/stamp.jsp?tp=&arnumber=9599098), Sai Ranganath Mikkilineni, Michael W. Totaro
+[The Performance of PredNet Using Predictive Coding in the Visual Cortex: An Empirical Analysis](https://ieeexplore.ieee.org/document/9599098), Sai Ranganath Mikkilineni, Michael W. Totaro
 ```
 @INPROCEEDINGS{9599098,  author={Mikkilineni, Sai Ranganath and Totaro, Michael Wayne},  booktitle={2021 IEEE 22nd International Conference on Information Reuse and Integration for Data Science (IRI)},   title={The Performance of PredNet Using Predictive Coding in the Visual Cortex: An Empirical Analysis},   year={2021},  volume={},  number={},  pages={408-415},  doi={10.1109/IRI51335.2021.00064}}
 ```
