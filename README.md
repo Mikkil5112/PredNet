@@ -15,7 +15,7 @@ PredNet is a deep recurrent convolutional neural network developed by Lotter et 
 This code was made possible by building upon the contributions by Lotter et al. and Rane, Rohan Prakash, et al. You can find their papers at: ([Rane, Roshan Prakash et al.] (https://arxiv.org/abs/1906.11902)), ([Lotter et al.] (https://arxiv.org/abs/1605.08104)).
 # Usage
 
-1.  We ran the simulations on a Windows-10 system and made appropriate changes to the code.
+1.  We ran the simulations on a Windows-10 system and made appropriate changes to the code. We used Tensorflow 1.15, python 3.7, and keras 2.3.1.
     a. To extract the videos from the downloaded something-something-v2 dataset and split them into test, train, and validation dataset(data.csv) use extract_20bn.py`  
 
         Ex:- `python3 extract_20bn.py --data_dir /data/videos/something-something-v2/raw --dest_dir /data/videos/something-something-v2/preprocessed --fps 3`
